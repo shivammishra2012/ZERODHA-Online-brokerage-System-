@@ -25,4 +25,4 @@ svg viewer
 R6: The system should allow the user to make deposits and withdrawals using checks, wire transfers, or electronic bank transfers.
 
 
-svg viewer
+
